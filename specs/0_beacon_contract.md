@@ -49,7 +49,7 @@ semver. Importantly, the major and minor versions of the Beacon contract
 must be equal to the major and minor versions (respectively) of this spec.
 
 ## Overview
-At a high level, the Beacon contract must enforce the rules of the protocol
+At a high level, the Beacon contract must enforce the rules of the protocol [(white paper)](https://beaconexchange.io/beacon.pdf) 
 and provide safety to both parties. Broadly, the trading process has three
 steps:
 1. Broadcast an Intent-To-Trade (ITT). An ITT is an actionable quote to trade
